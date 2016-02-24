@@ -1,0 +1,1 @@
+This software creates a LaTeX file of a diploma for each person in a list of personal data. Moreover it compiles these files to pdf and join its in an only pdf.
